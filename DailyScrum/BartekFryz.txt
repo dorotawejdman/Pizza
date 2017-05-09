@@ -1,0 +1,15 @@
+Moja aktywność:
+
+Z DNIA - 26.05.2017
+
+WCZORAJ:
+Oglądnąłem filmik opisujący proces tworzenie stron internetowych oraz technologie w nim występujące
+https://www.youtube.com/watch?v=1M0YXFW31hg – Mirosław Zelent
+oraz kurs wstępny programowania w języku Python
+https://www.youtube.com/watch?v=N4mEzFDjqtA – Derek Banas
+Zainstalowałem również interpreter oraz środowisko pracy w języku Python.
+
+DZISIAJ
+Mam zamiar dowiedzieć się czegoś więcej o Pythonie oraz Frameworku Django.
+
+
