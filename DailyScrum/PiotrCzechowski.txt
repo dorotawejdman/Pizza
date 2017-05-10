@@ -1,3 +1,5 @@
 9.05.2017
 Dzień pierwszy. W dniu wczorajszym osiągnęliśmy wstępne porozumienie dotyczące kształtu projektu, odpowiedzialności przypisanej poszczególnym osobom, ustaliliśmy w jakich językach będziemy się obracać przy projektowaniu naszej strony. W dniu dzisiejszym zaczynam pracę nad ogólnym poznawaniem html, właściwie nad przypominaniem sobie wiedzy nabytej w Liceum. Naukę rozpocznę od znalezienia odpowiednich źródeł, już teraz wiedząc o stronie w3schools.
 
+10.05.2017
+Dzień drugi. W dniu wczorajszym zapoznałem się z podstawowymi komendami html ucząc się go ze strony w3schools, htmldlaielonych.pl oraz kilku tutoriali na YouTube. Dzisiejszego dnia będę kontynuował naukę html. 
