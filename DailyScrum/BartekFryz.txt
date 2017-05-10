@@ -12,4 +12,14 @@ Zainstalowałem również interpreter oraz środowisko pracy w języku Python.
 DZISIAJ
 Mam zamiar dowiedzieć się czegoś więcej o Pythonie oraz Frameworku Django.
 
+Z DNIA - 27.05.2017
+
+WCZORAJ:
+Przerobiłem tutorial https://tutorial.djangogirls.org/pl/ do adresów URL
+Zainstalowałem i ustawiłem lokalny serwer Django oraz nauczyłem się kliku podstawowych rzeczy o tym frameworku.
+
+DZISIAJ
+Mam zamiar kontynuować kurs https://tutorial.djangogirls.org/pl/django_urls/
+
+
 
