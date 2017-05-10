@@ -2,3 +2,8 @@ Raport 9.05.2017r:
 Na wczorajszy dzieñ tj. 8 maja zaplanowa³em naukê jezyka HTML.Uczy³em siê siê ze strony w3.schools.com, gdzie  przebrn¹³em przez kurs HTMLa do czêœci HTML Attributes w³¹cznie.
 Dodatkowo, obejrza³em wczoraj, wrzucony przez na nasz¹ projektow¹ konwersacjê, filmik obrazuj¹cy rolê poszczególnych czêœci tworz¹cych stronê internetow¹ (HTML, JavaScript,SQL itd.) itd.).
 Na dzisiejszy dzieñ równie¿ zaplanowa³em naukê HTMLa, moim zamiarem jest przerobiæ kolejne rozdzia³y a¿ do co najmniej HTML Colors w³¹cznie.
+
+Raport 10.05 2017r:
+Zgodnie z wczorajszymi ustaleniami, wczorajszy dzieñ poœwiêci³em na dalsz¹ naukê HTML. Plan , który wczoraj sobie zalo¿y³em , wype³ni³em, jednak¿e bez ¿adnej nadwy¿ki.
+Na dzisiejszy dzieñ zaplanowa³em dalsz¹ naukê HTML z strony wspomnianej we wczorajszym raporcie, ze wzglêdu jednak na pewne  dzisiejsze zobowi¹zania, nie bêdê w stanie przerobiæ dzisiaj
+sporej partii materia³u, tylko jego niewielk¹ czêœæ. Jeœli uda mi siê wyrobiæ z czasem, dodatkowo planujê obejrzeæ filmiki instrukta¿owe o HTML ze strony Pasja Informatyki.  
