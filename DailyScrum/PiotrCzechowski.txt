@@ -3,3 +3,6 @@ Dzień pierwszy. W dniu wczorajszym osiągnęliśmy wstępne porozumienie dotycz
 
 10.05.2017
 Dzień drugi. W dniu wczorajszym zapoznałem się z podstawowymi komendami html ucząc się go ze strony w3schools, htmldlaielonych.pl oraz kilku tutoriali na YouTube. Dzisiejszego dnia będę kontynuował naukę html. 
+
+11.05.2017
+Dzień trzeci. W dniu wczorajszym udało mi się poczynić postępy w pisaniu własnej strony internetowej. Zawiera ona już tabelę, oraz kilka krótkich fraz z tekstem dormatowanym według odpowiednich funckji. W dniu dzisiejszym kontynuuję proces nauczania html i css zgodnie z kursem ze strony w3schools.
