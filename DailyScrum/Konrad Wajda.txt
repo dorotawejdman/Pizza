@@ -6,4 +6,8 @@ Na dzisiejszy dzieñ równie¿ zaplanowa³em naukê HTMLa, moim zamiarem jest przerob
 Raport 10.05 2017r:
 Zgodnie z wczorajszymi ustaleniami, wczorajszy dzieñ poœwiêci³em na dalsz¹ naukê HTML. Plan , który wczoraj sobie zalo¿y³em , wype³ni³em, jednak¿e bez ¿adnej nadwy¿ki.
 Na dzisiejszy dzieñ zaplanowa³em dalsz¹ naukê HTML z strony wspomnianej we wczorajszym raporcie, ze wzglêdu jednak na pewne  dzisiejsze zobowi¹zania, nie bêdê w stanie przerobiæ dzisiaj
-sporej partii materia³u, tylko jego niewielk¹ czêœæ. Jeœli uda mi siê wyrobiæ z czasem, dodatkowo planujê obejrzeæ filmiki instrukta¿owe o HTML ze strony Pasja Informatyki.  
+sporej partii materia³u, tylko jego niewielk¹ czêœæ. Jeœli uda mi siê wyrobiæ z czasem, dodatkowo planujê obejrzeæ filmiki instrukta¿owe o HTML ze strony Pasja Informatyki.
+ 
+Raport 11.05.2017r : 
+Zgodnie z wczorajszymi ustaleniami, przerobi³em nastepne parê rozdzia³ów o HTMLu. Nie znalaz³em jednak czasu na wspomniane w poprzednim raporcie filmiki instrukta¿owe. Na dzisiejszy dzieñ zaplonwa³em dalsz¹ naukê HTMLa
+, w tym tworzenie tabel i bloki div.
