@@ -6,3 +6,6 @@ Dzień drugi. W dniu wczorajszym zapoznałem się z podstawowymi komendami html 
 
 11.05.2017
 Dzień trzeci. W dniu wczorajszym udało mi się poczynić postępy w pisaniu własnej strony internetowej. Zawiera ona już tabelę, oraz kilka krótkich fraz z tekstem dormatowanym według odpowiednich funckji. W dniu dzisiejszym kontynuuję proces nauczania html i css zgodnie z kursem ze strony w3schools.
+
+12.05.2017
+Dzień czwarty. W dniu wczorajszym  dokonałem kilku formatowań strony dodając do niej także listę oraz zapoznając się z innymi możliwościami. Dzisiaj kontynuuję proces nauczania, będąc już na poziomie formuły <div>.
