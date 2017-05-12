@@ -10,4 +10,9 @@ sporej partii materia³u, tylko jego niewielk¹ czêœæ. Jeœli uda mi siê wyrobiæ z 
  
 Raport 11.05.2017r : 
 Zgodnie z wczorajszymi ustaleniami, przerobi³em nastepne parê rozdzia³ów o HTMLu. Nie znalaz³em jednak czasu na wspomniane w poprzednim raporcie filmiki instrukta¿owe. Na dzisiejszy dzieñ zaplonwa³em dalsz¹ naukê HTMLa
-, w tym tworzenie tabel i bloki div.
+, w tym tworzenie tabel i bloki 
+
+Raport 12.05.2017r:
+
+Tak jak zapowiedzia³em, wczorajszy dzieñ dalej uczy³em siê zacnej sztuki tworzenia stron. Dzisiejszy dzieñ poœwiêcê czêœciowemu stworzeniu prostej strony HTML zawieraj¹cej nauczone przeze mnie elementy 
+oraz kontynuowa³ bêdê naukê. Byæ mo¿e uda mi siê dokoñczyæ ca³y kurs podstawowy HTML i przejœæ do szczegó³owego kursu poœwiêconego kaskadowym arkuszom stylów CSS.
