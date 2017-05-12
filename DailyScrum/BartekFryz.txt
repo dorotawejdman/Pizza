@@ -29,4 +29,12 @@ Skończyłem tutorial https://tutorial.djangogirls.org/pl/django_urls/
 DZISIAJ
 Mam zamiar przejść bardziej zaawansowany tutorial np. https://www.youtube.com/watch?v=9Wbfk16jEOk
 
+Z DNIA - 29.05.2017
+
+WCZORAJ:
+Uznałem, że lepiej podszkolić się trochę z Python'a. W ramach treningu zaimplementowałem quicksort w Pythonie. https://github.com/Fryzu/algos
+
+DZISIAJ
+Mam zamiar dalej rozwijać swoja wiedzę o Pythonie
+
 
