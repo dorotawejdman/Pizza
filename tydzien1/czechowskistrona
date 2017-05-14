@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th,
+ td {
+   	 border: 1px solid black;	
+	border-collapse:collapse;
+padding: 15px;
+}
+th {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+}
+li {
+float:left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #101111;
+}
+div.bloczek {
+    background-color: green;
+    color: black;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+</style>
+</head>
+
+
+
+<body background="C:\Users\User\Desktop\pizza.jpg">
+<ul>
+  <li style="width:25%"><a href="#home">Home</a></li>
+  <li style="width:25%"><a href="#news">O nas</a></li>
+  <li style="width:25%"><a href="#contact">Kontakt</a></li>
+  <li style="width:25%"><a href="#about">Historia</a></li>
+</ul>
+
+
+<h1 align=center>Pizza Z Pieca</h1>
+
+<p align=right><i>jedz smacznie i tanio</i></p>
+
+
+<!--PONIŻEJ KOD NA TABLICĘ-->
+
+<table style="width:100%;">
+<caption>Oto nasza pierwsza oferta:</caption>
+  <tr style="background-color:green;">
+    <th>Nazwa</th>
+    <th>Składniki</th> 
+    <th>Cena</th>
+<br><br><br>
+  </tr>  <tr>
+    <td>Capriciosa</td>
+    <td>szynka,pieczarki</td> 
+    <td>20 zł</td>
+  </tr>  <tr>
+    <td>Hawajska</td>
+    <td>szynka, ananas</td> 
+    <td>21 zł</td>
+  </tr>
+</tr>  <tr>
+    <td>Pepperoni</td>
+    <td>kiełbasa pepperoni</td> 
+    <td>19 zł</td>
+  </tr>
+</tr>  <tr>
+    <td>Primavera</td>
+    <td>boczek, pieczarki</td> 
+    <td>22 zł</td>
+  </tr></tr>  <tr>
+    <td>Margherita</td>
+    <td> sos i ser</td> 
+    <td>15 zł</td>
+  </tr>
+</table>
+<div class="bloczek">
+<h2 align=center>Jak u nas zjesz?</h2>
+
+<ul>
+  <li style="float:none;">Tanio</li>
+  <li style="float:none;">Smacznie</li>
+  <li style="float:none;">Szybko</li>
+</ul>  
+</div>
+<br>
+<div class="bloczek">
+<h2 align=center >blok</h2>
+<p align=center>Miejsce na Twoją reklamę </p>
+
+</div>
+</body>
+</html>
