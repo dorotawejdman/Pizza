@@ -9,3 +9,6 @@ Dzień trzeci. W dniu wczorajszym udało mi się poczynić postępy w pisaniu w�
 
 12.05.2017
 Dzień czwarty. W dniu wczorajszym  dokonałem kilku formatowań strony dodając do niej także listę oraz zapoznając się z innymi możliwościami. Dzisiaj kontynuuję proces nauczania, będąc już na poziomie formuły <div>.
+
+15.05.2017
+Dzień piąty. W dniu dzisiejszym stworzyliśmy plan kolejnego tygodnia działań. Rozpoczynam także pracę nad listą funkcjonalności naszej strony, tak aby w ciągu najbliższego dnia ją ukończyć.
