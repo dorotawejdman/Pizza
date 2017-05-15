@@ -1,0 +1,52 @@
+	body
+	{
+		background-color:black;
+		color:white;
+	}
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{
+		background-color:black;
+		color: white;
+		text-align: center;
+		padding:15px;
+		
+	}
+	#menu
+	{
+		width: 120px;
+		float:left;
+		padding: 10px;
+
+		background-color: Forestgreen;
+		height: 700px;
+	}
+	#content
+	{
+		width: 710px;
+		float:left;
+		color:white;
+		padding:15px;
+		background-color:DarkRed;
+		min-height: 690px;
+		image-align:center;
+	}
+	#ad
+	{
+		width: 100px;
+		float:left;
+		height: 700px;
+	}
+	#footer
+	{
+		clear: both;
+		padding:10px;
+		text-align: center;
+		color:white;
+		background-color: black;
+	}	
