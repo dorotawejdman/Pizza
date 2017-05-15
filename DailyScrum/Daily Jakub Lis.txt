@@ -23,11 +23,5 @@ Planem na dzisiaj jest przestudiować moduł HTML Attributes
 
 14.05.2017
 W dniu poprzednim nie udało się ukończyć modułu HTML Elements, z powodu trwających juwenali AGH. Przerobione zostały jedynie: HTML Nested Elements.
-Plan na dziś:
-
-
-
-
-
-W dniu dzisiejszym rozpoczynam zapoznawanie się podstawowymi elementami JavaScript
+Plan na dziś: dokonczyć rozpoczęty moduł HTML Elements a dodatkowo przerobic moduł HTML Headings.
 
