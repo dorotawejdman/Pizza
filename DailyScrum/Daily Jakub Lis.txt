@@ -25,3 +25,11 @@ Planem na dzisiaj jest przestudiować moduł HTML Attributes
 W dniu poprzednim nie udało się ukończyć modułu HTML Elements, z powodu trwających juwenali AGH. Przerobione zostały jedynie: HTML Nested Elements.
 Plan na dziś: dokonczyć rozpoczęty moduł HTML Elements a dodatkowo przerobic moduł HTML Headings.
 
+15.05.2017
+W dniu poprzednim zrealizowałem wszystkie założone zadania, tj. dokonczenie modułu HTML Elements oraz moduł HTML Headings. Jestem z siebie bardzo dumny że udało mi się odwalić taki kawał roboty.
+Plan na dziś: spotkanie na zajęciach INPG, kontrola zrobionych postępów, wyznaczenie zadań na kolejny tydzień.
+
+16.05.2017
+W dniu wczorajszym na zajęciach z INPG ustaliliśmy zadania na rozpoczęty tydzień. Informacje na ten temat dostępne w tygodniowym scrumie opracowanym przez całą ekipę.
+Plan na dziś: znaleźć odpowiednie dla mnie (tj. w miarę funkcjonalne i poisane prostym językiem) poradniki na temat obiektów w Java script i rozplanowanie sobie ich nauki.
+
