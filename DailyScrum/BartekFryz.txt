@@ -37,4 +37,19 @@ Uznałem, że lepiej podszkolić się trochę z Python'a. W ramach treningu zaim
 DZISIAJ
 Mam zamiar dalej rozwijać swoja wiedzę o Pythonie
 
+Z DNIA - 15.05.2017
+
+WCZORAJ:
+W ramach treningu zaimplementowałem mergesort w Pythonie. https://github.com/Fryzu/algos.
+
+DZISIAJ
+Mam zamiar napisać plan struktruralny strony.
+
+Z DNIA - 16.05.2017
+
+WCZORAJ:
+Napisaliśmy plan struktruralny strony.
+
+DZISIAJ
+Mam zamiar dalej programować w Pythonie.
 
