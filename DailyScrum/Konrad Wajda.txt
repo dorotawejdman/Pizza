@@ -16,3 +16,13 @@ Raport 12.05.2017r:
 
 Tak jak zapowiedzia³em, wczorajszy dzieñ dalej uczy³em siê zacnej sztuki tworzenia stron. Dzisiejszy dzieñ poœwiêcê czêœciowemu stworzeniu prostej strony HTML zawieraj¹cej nauczone przeze mnie elementy 
 oraz kontynuowa³ bêdê naukê. Byæ mo¿e uda mi siê dokoñczyæ ca³y kurs podstawowy HTML i przejœæ do szczegó³owego kursu poœwiêconego kaskadowym arkuszom stylów CSS.
+
+
+.........................................................................................Tydzieñ 2..............................................
+
+Raport 16.05.20167r:
+
+W dniu wczorajszym dokonaliœmy podsumowania naszych dotychczasowych postêpów nad projektem i zaplanowaliœmy pracê na kolejny tydzieñ. Dodatkowo, kontynuowa³em dalsz¹ naukê
+kaskadowych arkuszy stylów CSS. Przebieg prac dnia dzisiejszego zale¿y w du¿ej mierze od efektów pracy moich wspó³towarzyszy. Je¿eli uda im siê w du¿ym stopniu ukoñczyæ 
+listê funkcjonalnoœci naszej strony, to zajmê siê, wraz z kole¿ank¹, prac¹ nad implementacj¹ tych funkcjonalnoœci w HTML i CSS. w przeciwnym razie prace te rozpoczniemy dopiero jutro, 
+a dzisiaj zaimplementujê nowo poznane przeze mnie funkcjonalnoœci CSS do mojej strony internetowej.
