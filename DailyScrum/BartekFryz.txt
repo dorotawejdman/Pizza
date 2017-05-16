@@ -1,6 +1,6 @@
 Moja aktywność:
 
-Z DNIA - 26.05.2017
+Z DNIA - 8.05.2017
 
 WCZORAJ:
 Oglądnąłem filmik opisujący proces tworzenie stron internetowych oraz technologie w nim występujące
@@ -12,7 +12,7 @@ Zainstalowałem również interpreter oraz środowisko pracy w języku Python.
 DZISIAJ
 Mam zamiar dowiedzieć się czegoś więcej o Pythonie oraz Frameworku Django.
 
-Z DNIA - 27.05.2017
+Z DNIA - 9.05.2017
 
 WCZORAJ:
 Przerobiłem tutorial https://tutorial.djangogirls.org/pl/ do adresów URL
@@ -21,7 +21,7 @@ Zainstalowałem i ustawiłem lokalny serwer Django oraz nauczyłem się kliku po
 DZISIAJ
 Mam zamiar kontynuować kurs https://tutorial.djangogirls.org/pl/django_urls/
 
-Z DNIA - 28.05.2017
+Z DNIA - 10.05.2017
 
 WCZORAJ:
 Skończyłem tutorial https://tutorial.djangogirls.org/pl/django_urls/
@@ -29,7 +29,7 @@ Skończyłem tutorial https://tutorial.djangogirls.org/pl/django_urls/
 DZISIAJ
 Mam zamiar przejść bardziej zaawansowany tutorial np. https://www.youtube.com/watch?v=9Wbfk16jEOk
 
-Z DNIA - 29.05.2017
+Z DNIA - 11.05.2017
 
 WCZORAJ:
 Uznałem, że lepiej podszkolić się trochę z Python'a. W ramach treningu zaimplementowałem quicksort w Pythonie. https://github.com/Fryzu/algos
