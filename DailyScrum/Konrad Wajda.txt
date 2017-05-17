@@ -20,9 +20,15 @@ oraz kontynuowa³ bêdê naukê. Byæ mo¿e uda mi siê dokoñczyæ ca³y kurs podstawowy 
 
 .........................................................................................Tydzieñ 2..............................................
 
-Raport 16.05.20167r:
+Raport 16.05.2017r:
 
 W dniu wczorajszym dokonaliœmy podsumowania naszych dotychczasowych postêpów nad projektem i zaplanowaliœmy pracê na kolejny tydzieñ. Dodatkowo, kontynuowa³em dalsz¹ naukê
 kaskadowych arkuszy stylów CSS. Przebieg prac dnia dzisiejszego zale¿y w du¿ej mierze od efektów pracy moich wspó³towarzyszy. Je¿eli uda im siê w du¿ym stopniu ukoñczyæ 
 listê funkcjonalnoœci naszej strony, to zajmê siê, wraz z kole¿ank¹, prac¹ nad implementacj¹ tych funkcjonalnoœci w HTML i CSS. w przeciwnym razie prace te rozpoczniemy dopiero jutro, 
 a dzisiaj zaimplementujê nowo poznane przeze mnie funkcjonalnoœci CSS do mojej strony internetowej.
+
+Raport 17.05.2017r.:
+
+Po otrzymaniu dnia poprzedniego listy funkcjonalnoœci naszej strony od wspó³pracowników, rozpoczêliœmy tworzenie jej zal¹¿ków. Dnia wczorajszego utworzy³em pliki HTML odpowiadaj¹ce poszczególnym
+podstronom i uzupe³ni³em ich nag³ówki headerami utworzonymi przez Dorotê. W dniu dzisiejszym utworzy³em foldery odpowiednio na grafiki oraz na pliki CSS do naszego projektu.
+W pierwszym pliku CSS umieœci³em zal¹¿ki id przysz³ych divów. W dniu dzisiejszym planuje tak¿e dalej kontynuowaæ naukê CSS.
