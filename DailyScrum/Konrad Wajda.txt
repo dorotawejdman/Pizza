@@ -31,4 +31,4 @@ Raport 17.05.2017r.:
 
 Po otrzymaniu dnia poprzedniego listy funkcjonalnoœci naszej strony od wspó³pracowników, rozpoczêliœmy tworzenie jej zal¹¿ków. Dnia wczorajszego utworzy³em pliki HTML odpowiadaj¹ce poszczególnym
 podstronom i uzupe³ni³em ich nag³ówki headerami utworzonymi przez Dorotê. W dniu dzisiejszym utworzy³em foldery odpowiednio na grafiki oraz na pliki CSS do naszego projektu.
-W pierwszym pliku CSS umieœci³em zal¹¿ki id przysz³ych divów. W dniu dzisiejszym planuje tak¿e dalej kontynuowaæ naukê CSS..
+W pierwszym pliku CSS umieœci³em zal¹¿ki id przysz³ych divów. W dniu dzisiejszym planuje tak¿e dalej kontynuowaæ naukê CSS.
