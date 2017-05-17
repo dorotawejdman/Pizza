@@ -21,3 +21,11 @@ Dzień szósty.
 W dniu wczorajszym rozpoczelismy tworzenie listy funkcjonalności. 
 W dniu dzisiejszym będziemy kontynuować tę pracę, tak aby w najblizszych godzinach móc ją ukończyć.
 
+17.05.2017
+Dzień siódmy.
+W dniu wczorajszym stworzyliśmy z Bartkiem Listę
+funkcjonalności strony. W dniu dzisiejszym rozpoczynam z Dorotą i Konradem
+pracę nad strukturą pisaną kodem. Czeka mnie jednak jutro kolokwium 
+z Rachunku Prawdopodobieństwa dlatego podejrzewam, że faktycznie coś wartą pracę
+wykonam dopiero po nim, tj. po godz. 12, starajać się ją skończyć przed godz. 16.
+
