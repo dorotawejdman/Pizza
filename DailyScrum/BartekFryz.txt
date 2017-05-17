@@ -53,3 +53,10 @@ Napisaliśmy plan struktruralny strony.
 DZISIAJ
 Mam zamiar dalej programować w Pythonie.
 
+Z DNIA - 17.05.2017
+
+WCZORAJ:
+Dowiedziałem sie sporo o strukturze katalogów oraz sposobie działania frameworku Django
+
+DZISIAJ
+Mam zmiar dalej poznawać Django.
