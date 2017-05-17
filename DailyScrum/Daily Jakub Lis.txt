@@ -33,3 +33,7 @@ Plan na dziś: spotkanie na zajęciach INPG, kontrola zrobionych postępów, wyz
 W dniu wczorajszym na zajęciach z INPG ustaliliśmy zadania na rozpoczęty tydzień. Informacje na ten temat dostępne w tygodniowym scrumie opracowanym przez całą ekipę.
 Plan na dziś: znaleźć odpowiednie dla mnie (tj. w miarę funkcjonalne i poisane prostym językiem) poradniki na temat obiektów w Java script i rozplanowanie sobie ich nauki.
 
+17.05.2017
+W dniu wczorajszym wyszukałem najllepsze poradniki na temat obiektów w Java script i rozplanowałem ich naukę.
+Plan na dzisiaj: nauczyć się uruchamiać serwer na komputerze lokalnym i wgrywać do niego dane.
+
