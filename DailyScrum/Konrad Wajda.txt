@@ -34,5 +34,5 @@ podstronom i uzupe³ni³em ich nag³ówki headerami utworzonymi przez Dorotê. W dniu
 W pierwszym pliku CSS umieœci³em zal¹¿ki id przysz³ych divów. W dniu dzisiejszym planuje tak¿e dalej kontynuowaæ naukê CSS.
 
 Raport 18.05.2017r:
-W dniu wczorajszym po raz pierwszy napotka³em problem za dokonaniem commitu. Rozwi¹za³em go, korzystaj¹c z opcji pull a dopiero nastepnie commit. Wczorajszy plan wykona³em.
+W dniu wczorajszym po raz pierwszy napotka³em problem za dokonaniem commitu. Rozwi¹za³em go, korzystaj¹c z opcji pull a dopiero nastepnie commit. Wczorajszy plan wykona³em..
 W dniu dzisiejszym planujê pracê z plikiem CSS naszej strony internetowej.
