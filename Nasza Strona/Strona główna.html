@@ -13,8 +13,8 @@
 </head>
 
 	<style>
-	.przycisk
-	{
+	.przycisk {
+	
 	 background-color: #4CAF50;
     border: none;
     color: white;
@@ -22,10 +22,18 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 30px;
     margin: 4px 2px;
     cursor: pointer;
-}
+	border-radius:50%;
+	webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+				
+	}
+	.przycisk:hover {
+	
+	background-color:powderblue;
+	color:
 	
 	}
 	</style>
@@ -38,14 +46,14 @@
 	</div>
 	
 	<div id = "menu">
-		<div class="option">Strona Główna </div>		
-		<div class="option">Menu/Zamów online </div>
-		<div class="option"> O nas </div>
-		<div class="option"> O projekcie </div>		
+		<div class="option"><a href="Strona główna.html" class="przycisk">Strona glówna</a> </div>		
+		<div class="option"><a href="menu.html" class="przycisk">Menu</a> </div>
+		<div class="option"> <a href="oNas.html" class="przycisk">O nas</a> </div>
+		<div class="option"><a href="oProj.html" class="przycisk">O projekcie</a> </div>		
 	</div>
 	<div id="content">
 	<!-- wielkie zdjęcia pizz z ananasemi przycisk przekierowujący na zamówienia-->
-	<a href="menu.html" class="przycisk">Menu</a>
+	
 	</div>
 	<div id="footer">
 		Wszelkie prawa zastrzeżone! &copy;
