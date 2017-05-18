@@ -37,3 +37,7 @@ Plan na dziś: znaleźć odpowiednie dla mnie (tj. w miarę funkcjonalne i poisa
 W dniu wczorajszym wyszukałem najllepsze poradniki na temat obiektów w Java script i rozplanowałem ich naukę.
 Plan na dzisiaj: nauczyć się uruchamiać serwer na komputerze lokalnym i wgrywać do niego dane.
 
+18.05.2017
+W dniu wczorajszym opanowałem uruchamianie serwera na komputerze lokalnym i wgrywać do niego dane.
+Plan na dzisiaj: zapoznać się z bibliotekami jquery.
+
