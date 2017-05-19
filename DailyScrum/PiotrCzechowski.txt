@@ -29,3 +29,12 @@ pracę nad strukturą pisaną kodem. Czeka mnie jednak jutro kolokwium
 z Rachunku Prawdopodobieństwa dlatego podejrzewam, że faktycznie coś wartą pracę
 wykonam dopiero po nim, tj. po godz. 12, starajać się ją skończyć przed godz. 16.
 
+18.05.2017
+Dzień ósmy.
+Wd niu wczorajszym udało mi się względnie ogarnąć szkielet zrobiony przez Kondrada i Dorotę. 
+W dniu dzisiejszym mam zamiar zrobić menu strony głownej oraz zająć się tłem na tej stronie, 
+przy okazji odkrywając kilka nowych funckji w HTML/ CSS.
+ 
+Dzien 9.
+W  dniu wczorajszym udało mi się zrobić listę wyboru (Menu) na stronie głównej.
+W  dniu dzisiejszym nie uda mi się prawdopodobnie zrobić wiele.Zadania których nie wykonam dzisiaj postatam się nadrobić w weekend. 

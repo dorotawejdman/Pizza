@@ -1,8 +1,9 @@
 
 body
 {
-	background-image:url("./../images/ananas.jpeg");
+	background-image:url("./../images/ananas.jpEg");
 	background-position: top;
+	font-family: 'IM Fell DW Pica', serif;
 
 #container
 {
@@ -32,5 +33,6 @@ body
 	
 	
 }
+.
 
 
