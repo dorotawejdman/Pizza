@@ -44,6 +44,6 @@ Plan na dzisiaj: zapoznać się z bibliotekami jquery.
 19.05.2017
 W dniu wczorajszym poznałem funkcje bibliotek jQuery.
 Plan na dzisiaj: opanowac funkcję jQuery toggle. Będzie ona wykorzystana do wyświetlania opisu danego produktu, 
-w naszym przypadku do wyświetlania (rozwijania i zwijania opisu danej pizzy). Wypróbowany kod umieszczę w katalogu Comity.
+w naszym przypadku do wyświetlania (rozwijania i zwijania opisu danej pizzy). Wypróbowany kod umieszczę w katalogu Comity..
 
 
