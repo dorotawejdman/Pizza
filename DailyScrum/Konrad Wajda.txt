@@ -36,3 +36,6 @@ W pierwszym pliku CSS umieœci³em zal¹¿ki id przysz³ych divów. W dniu dzisiejszym
 Raport 18.05.2017r:
 W dniu wczorajszym po raz pierwszy napotka³em problem za dokonaniem commitu. Rozwi¹za³em go, korzystaj¹c z opcji pull a dopiero nastepnie commit. Wczorajszy plan wykona³em.
 W dniu dzisiejszym planujê pracê z plikiem CSS naszej strony internetowej.
+
+Raport 19.05.2017r:
+W dniu wczorajszym pracowa³em z plikiem css strony internetowej. Dzisiaj przeprowadziliœmy naradê na temat dalszych kroków zwi¹zanych z naszym zadaniem i od jutra rozpoczynamy wytê¿on¹ pracê.
