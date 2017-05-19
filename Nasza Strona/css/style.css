@@ -9,7 +9,7 @@
 	{
 		width: 100%;
 	
-		border: 1px solid #424242;
+		
 	}
 	#logo
 	{
@@ -23,43 +23,50 @@
 	
 	#content
 	{
+		border:none;
 		width: 75%;
 		float:left;
 		color:white;
-		padding:15px;
 		background-color:#4d0000;
 		image-align: center;
 		margin-bottom: 1%;
 		margin-top: 1%;
-		height: 1200px;
-		image-align:center;
-		border: 1px solid #424242;
+		height: 40%;
+		
+		
 	}
 	#pizzadnia
 	{
 		
-		border: 1px solid #424242;
+		
+		padding:1px;
+		margin-bottom:0px;
+		margin-top:0px;
+		margin-right:0px;
+		margin-left:0px;
 	}
 	#zamow
 	{
-		width: ;
+		width:100% ;
 		background-color: black;
 		
 		height: 200px;
-		border: 1px solid #424242;
+		
 		
 	}
 	
 	#ad
 	{
-		
+		border:none;
 		float:left;
-		background-color:black;
+		background-color:#424242;
 		margin: 1%;
-		height: 1200px;
-		width: 20%;
+		height: 40%;
+		width: 23%;
 		
-		border: 1px solid #424242;
+		
+		
+		
 	}
 	#footer
 	{
@@ -90,3 +97,31 @@
 		background-color:#263238;
 		cursor: pointer;
 	}
+	
+	
+	a.button1
+	{
+		background-color: #A33643; /* Green */
+    border: none;
+	width:100%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius:50%;
+	webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+		
+		
+	}
+	
+	a.button1:hover
+	{
+		color:black;
+		background-color: #AA6E39;
+		
+	}.
