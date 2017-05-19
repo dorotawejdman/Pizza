@@ -1,14 +1,15 @@
 	body
 	{
-		background-color:black;
+		/* Background pattern from Subtle Patterns */
+		background-image:url("images/zigzag.png");
 		color:white;
 		font-family: 'IM Fell DW Pica', serif;
 	}
 	#container
 	{
 		width: 100%;
-		margin-left: auto;
-		margin-right: auto;
+	
+		border: 1px solid #424242;
 	}
 	#logo
 	{
@@ -17,13 +18,17 @@
 		text-align: center;
 		padding:10px;
 		font-size: 30px;
+		border-bottom: 1px solid #424242;
 	}
 	#zamowienia
 	{
-		width: 120px;
+		width: 10%;
 		float:left;
-		background-image: #003300;
-		height: 700px;
+		background-color: black;
+		
+		height: 1000px;
+		border: 1px solid #424242;
+		margin: 1%;
 	}
 	#content
 	{
@@ -31,18 +36,23 @@
 		float:left;
 		color:white;
 		padding:15px;
-		background-color:DarkRed;
+		background-color:#4d0000;
 		image-align: center;
-		margin-left: 10px;
-		margin-right: 10px;
+		margin-bottom: 1%;
+		margin-top: 1%;
 		min-height: 690px;
 		image-align:center;
+		border: 1px solid #424242;
 	}
 	#ad
 	{
-		width: 100px;
+		
 		float:left;
+		background-color:black;
+		margin: 1%;
 		height: 700px;
+		
+		border: 1px solid #424242;
 	}
 	#footer
 	{
@@ -51,21 +61,25 @@
 		text-align: center;
 		color:white;
 		background-color: black;
+		border: 1px solid #424242;
 	}	
 	#mainmenu
 	{
-		background-color: #003300;
-		margin-top: 10px;
-		margin-bottom: 10px;
+		background-color: #000000;
+		font-size:28px;
+		
+		<!--border: 1px solid #424242;-->
 	}
 	.option
 	{
 		float:left;
-		width: 23%;
+		width: 15%;
 		padding: 1%;
+		margin: 4px;
+		<!--border-right: 1px solid #263238;-->
 	}
 	.option:hover
 	{
-		background-color:forestgreen;
+		background-color:#263238;
 		cursor: pointer;
 	}
