@@ -1,0 +1,5 @@
+Django/virtual_env
+Django/db.sqlite3
+Django/*.pyc
+Django/__pycache__
+Django/.DS_Store
