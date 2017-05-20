@@ -20,19 +20,10 @@
 		font-size: 30px;
 		border-bottom: 1px solid #424242;
 	}
-	#zamowienia
-	{
-		width: 10%;
-		float:left;
-		background-color: black;
-		
-		height: 1000px;
-		border: 1px solid #424242;
-		margin: 1%;
-	}
+	
 	#content
 	{
-		width: 70%;
+		width: 75%;
 		float:left;
 		color:white;
 		padding:15px;
@@ -40,17 +31,33 @@
 		image-align: center;
 		margin-bottom: 1%;
 		margin-top: 1%;
-		min-height: 690px;
+		height: 1200px;
 		image-align:center;
 		border: 1px solid #424242;
 	}
+	#pizzadnia
+	{
+		
+		border: 1px solid #424242;
+	}
+	#zamow
+	{
+		width: ;
+		background-color: black;
+		
+		height: 200px;
+		border: 1px solid #424242;
+		
+	}
+	
 	#ad
 	{
 		
 		float:left;
 		background-color:black;
 		margin: 1%;
-		height: 700px;
+		height: 1200px;
+		width: 20%;
 		
 		border: 1px solid #424242;
 	}
