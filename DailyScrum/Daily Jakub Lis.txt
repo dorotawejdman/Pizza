@@ -43,9 +43,14 @@ Plan na dzisiaj: zapoznać się z bibliotekami jquery.
 
 19.05.2017
 W dniu wczorajszym poznałem funkcje bibliotek jQuery.
-Plan na dzisiaj: opanowac funkcję jQuery toggle. Będzie ona wykorzystana do wyświetlania opisu danego produktu, 
-w naszym przypadku do wyświetlania (rozwijania i zwijania opisu danej pizzy). Wypróbowany kod umieszczę w katalogu Comity..
+Plan na dzisiaj: opanowac funkcję jQuery Hide/schow-toggle. Będzie ona wykorzystana do wyświetlania opisu danego produktu, 
+w naszym przypadku do wyświetlania (pokazywania i chowania opisu danej pizzy). Wypróbowany kod umieszczę w katalogu Comity..
 
+20.05.2017
+W dniu wczorajszym zaadoptowałem funkcję jQuery Hide/schow-toggle do obsługi rozwijania i zwijania 
+opisu Pizyy dla naszej strony internetowej. Napisany kod źródłowy został umieszczony w katalogu Comity.
+Plan na dzisiaj: poznać funkcję jQuery slide i wykorzystać ją do rozwijania/zwijanie danej pozycji 
+z menu Pizzeri. W naszym przypadku będą rozwiajane poszczególne nazwy Pizyy (margheritta itd.)
 
 
 
