@@ -75,7 +75,7 @@
 		text-align: center;
 		color:white;
 		background-color: black;
-		border: 1px solid #424242;
+		border-top: 1px solid #424242;
 	}	
 	#mainmenu
 	{
@@ -87,7 +87,7 @@
 	.option
 	{
 		float:left;
-		width: 15%;
+		width: 13%;
 		padding: 1%;
 		margin: 4px;
 		<!--border-right: 1px solid #263238;-->
@@ -97,7 +97,14 @@
 		background-color:#263238;
 		cursor: pointer;
 	}
-	
+	.option2
+	{
+		float:left;
+		width: 20%;
+		margin: 4px;
+		<!--border-right: 1px solid #263238;-->
+	}
+
 	
 	a.button1
 	{
@@ -123,5 +130,6 @@
 	{
 		color:black;
 		background-color: #AA6E39;
+		cursor: pointer;
 		
 	}.
