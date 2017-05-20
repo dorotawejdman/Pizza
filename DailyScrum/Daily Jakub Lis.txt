@@ -47,3 +47,5 @@ Plan na dzisiaj: opanowac funkcję jQuery toggle. Będzie ona wykorzystana do wy
 w naszym przypadku do wyświetlania (rozwijania i zwijania opisu danej pizzy). Wypróbowany kod umieszczę w katalogu Comity..
 
 
+
+
