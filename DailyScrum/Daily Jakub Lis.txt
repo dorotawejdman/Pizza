@@ -41,3 +41,8 @@ Plan na dzisiaj: nauczyć się uruchamiać serwer na komputerze lokalnym i wgryw
 W dniu wczorajszym opanowałem uruchamianie serwera na komputerze lokalnym i wgrywać do niego dane.
 Plan na dzisiaj: zapoznać się z bibliotekami jquery.
 
+19.05.2017
+W dniu wczorajszym poznałem funkcje bibliotek jQuery.
+Plan na dzisiaj: opanowac funkcję jQuery toggle. Będzie ona wykorzystana do wyświetlania opisu danego produktu, w naszym przypadku do wyświetlania (rozwijania i zwijania opisu danej pizzy). Wypróbowany kod umieszczę w katalogu Comity.
+
+
