@@ -60,3 +60,11 @@ Dowiedziałem sie sporo o strukturze katalogów oraz sposobie działania framewo
 
 DZISIAJ
 Mam zmiar dalej poznawać Django.
+
+Z DNIA - 18-19.05.2017
+
+WCZORAJ:
+Napisałem counting_sorta w Pythonie. Postawiłem serwer i zaisntalowałem Django a następnie wrzuciłem na VPS.
+
+DZISIAJ
+Mam zmiar tworzyć widok na serwerze.
