@@ -53,4 +53,9 @@ Plan na dzisiaj: poznać funkcję jQuery slide i wykorzystać ją do rozwijania/
 z menu Pizzeri. W naszym przypadku będą rozwiajane poszczególne nazwy Pizyy (margheritta itd.)
 
 
+22.05.2017
+W sobotę ukończyłem zaplanowane na tamten dzień zadanie, czyli opanowanie funkcji jQuery
+slide która zostanie wykorzystana do rozwijania/zwijania danej pozycji z menu Pizzeri.
+Plan na dzisiaj: spotkać się z zespołem na zajęciach INPG, oraz rozpocząć pracę przy tworzeniu okna zamawiania.
+
 
