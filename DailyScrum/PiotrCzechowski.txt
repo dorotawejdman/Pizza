@@ -38,3 +38,8 @@ przy okazji odkrywając kilka nowych funckji w HTML/ CSS.
 Dzien 9.
 W  dniu wczorajszym udało mi się zrobić listę wyboru (Menu) na stronie głównej.
 W  dniu dzisiejszym nie uda mi się prawdopodobnie zrobić wiele.Zadania których nie wykonam dzisiaj postatam się nadrobić w weekend. 
+
+22.05.2017
+Dzień 10.
+Dzisiaj ustaliliśmy plan pracy na kolejny dzień. W dniu dzisiejszym będę poznawał podstawy SQL,
+ponieważ w moim udziale przypadło zadanie zajęcia się bazą danych.
