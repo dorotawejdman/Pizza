@@ -58,4 +58,15 @@ W sobotę ukończyłem zaplanowane na tamten dzień zadanie, czyli opanowanie fu
 slide która zostanie wykorzystana do rozwijania/zwijania danej pozycji z menu Pizzeri.
 Plan na dzisiaj: spotkać się z zespołem na zajęciach INPG, oraz rozpocząć pracę przy tworzeniu okna zamawiania.
 
+23.05.2017
+Wczoraj:
+Potwierdziliśmy zasugerowany wcześniej przydział obowiązków, zostałem zobligowany do zatroszczenia się
+o technologię Javascript w naszej stronie oraz zamieszczenie jej na onlinowym serwerze. Udało się rozocząć prace
+nad oknem zamówienia.  Zostały zdefiniowane elemeny całości okna, tj jego baza i wętrze.
+ Zostały określone rozmiar, kolor, pozycja oraz widoczność okna. Efekty pracy można zobaczyć w folderze comity.
+
+Plan na dzisiaj: 
+Kontynuacja pracy przy oknie zamówienia, tj. zdefiniowanie elementu do zamykania okna, złożenie elementów w całość
++ napisanie wstępnej treści okna.
+
 
