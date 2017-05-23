@@ -39,3 +39,9 @@ W dniu dzisiejszym planujê pracê z plikiem CSS naszej strony internetowej.
 
 Raport 19.05.2017r:
 W dniu wczorajszym pracowa³em z plikiem css strony internetowej. Dzisiaj przeprowadziliœmy naradê na temat dalszych kroków zwi¹zanych z naszym zadaniem i od jutra rozpoczynamy wytê¿on¹ pracê.
+
+..................................................................Tydzieñ 3.................................................................
+
+Raport 23.05.2017r:
+W dniu wczorajszym na zajêciach dokonaliœmy podsumowania naszych dotychczasowych prac oraz wyznaczyliœmy nowe cele na najbli¿szy tydzieñ. Zosta³em wybrany Scrum Masterem
+na ten tydzieñ. W dniu dzisiejszym planuje zaj¹æ siê konstrukcj¹ kolejnych podstron naszej strony internetowej.
