@@ -68,3 +68,12 @@ Napisałem counting_sorta w Pythonie. Postawiłem serwer i zaisntalowałem Djang
 
 DZISIAJ
 Mam zmiar tworzyć widok na serwerze.
+
+Z DNIA - 22.05.2017
+
+WCZORAJ:
+Poznawanie podstaw baz danych SQL + MySQL https://www.youtube.com/watch?v=99JAI24Zd24.
+
+DZISIAJ
+Pierwsze próby stworzenia bazy danych dla naszej strony.
+

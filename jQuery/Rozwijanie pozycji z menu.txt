@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+    $("#flip").click(function(){
+        $("#panel").slideToggle("slow");
+    });
+});
+</script>
+
+<style> 
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #696969;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+</style>
+</head>
+<body>
+ 
+<div id="flip">1.Margheritta</div>
+<div id="panel">Pizza nr 1 - margheritta <br/>
+<img src="http://www.zajadam.pl/wp-content/uploads/2016/05/pizza-z-patelni-469x313.jpg" alt="Naprawdê smaczna" style="width:304px;height:228px;">
+</div>
+
+</body>
+</html>
