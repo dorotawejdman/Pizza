@@ -1,6 +1,6 @@
 <style>
 		
-		body
+		body 
 
 		.okienko-baza {
 			display: none;
@@ -23,6 +23,21 @@
 			margin-top: 20%;
 		}
 
-		
+		.okienko-zamknij {
+			position: absolute;
+			top: 0;
+			right: 12px;
+			font-size: 40px;
+			cursor: pointer;
+		}
 
-	</style>
+	</style>
+
+
+<div id="okienko1" class="okienko-baza">
+	<div class="okienko-wnetrze">
+		<span class="okienko-zamknij">&times;</span>
+		<h1>Wyskakuj¹ce okienko popup</h1>
+		<p>Tylko krok od upragnionej Pizyy!</p>
+	</div>
+</div>
