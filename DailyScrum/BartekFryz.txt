@@ -77,3 +77,12 @@ Poznawanie podstaw baz danych SQL + MySQL https://www.youtube.com/watch?v=99JAI2
 DZISIAJ
 Pierwsze próby stworzenia bazy danych dla naszej strony.
 
+Z DNIA - 23.05.2017
+
+WCZORAJ:
+Tutoriale Django od thenewboston odcinki 1 - 13
+
+DZISIAJ
+Dalej tutoriale i pierwszy kod w django.
+
+
