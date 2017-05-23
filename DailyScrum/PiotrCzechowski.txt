@@ -43,3 +43,8 @@ W  dniu dzisiejszym nie uda mi się prawdopodobnie zrobić wiele.Zadania który
 Dzień 10.
 Dzisiaj ustaliliśmy plan pracy na kolejny dzień. W dniu dzisiejszym będę poznawał podstawy SQL,
 ponieważ w moim udziale przypadło zadanie zajęcia się bazą danych.
+
+23.05.2017
+Dzień 11.
+Wczoraj rozpocząłem kurs SQL przy pomocy tutoriala z YT.
+W dniu dzisiejszym kontynuuję ten proces.
