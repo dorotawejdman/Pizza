@@ -1,0 +1,66 @@
+<style>
+		
+		body 
+
+		.okienko-baza {
+			display: none;
+			background-color: rgba(200, 200, 200, .8);
+			width: 100%;
+			height: 100%;
+			position: fixed;
+			top: 0;
+			z-index: 9999;
+			overflow: auto;
+		}
+
+		.okienko-wnetrze {
+			background-color: red;
+			padding: 20px;
+			width: 50%;
+			margin: 0 auto;
+			text-align: center;
+			position: relative;
+			margin-top: 20%;
+		}
+
+		.okienko-zamknij {
+			position: absolute;
+			top: 0;
+			right: 12px;
+			font-size: 40px;
+			cursor: pointer;
+		}
+
+	</style>
+
+
+<div id="okienko1" class="okienko-baza">
+	<div class="okienko-wnetrze">
+		<span class="okienko-zamknij">&times;</span>
+		<h1>Wyskakuj¹ce okienko popup</h1>
+		<p>Tylko krok od upragnionej Pizyy!</p>
+	</div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+$(function(){
+	$(".uruchom-okienko").click(function(e){
+		e.preventDefault();
+
+		$("body").css("overflow", "hidden");
+
+		var idOkienka = $(this).attr("data-okienkoId");
+		$(idOkienka).fadeIn("fast");
+
+		// Zamkniêcie okienka
+		$(idOkienka).find(".okienko-zamknij").click(function(){
+			$(idOkienka).fadeOut("fast", function(){
+				$("body").css("overflow", "auto");
+
+			});
+		});
+
+	});
+});
+</script>
