@@ -48,3 +48,8 @@ ponieważ w moim udziale przypadło zadanie zajęcia się bazą danych.
 Dzień 11.
 Wczoraj rozpocząłem kurs SQL przy pomocy tutoriala z YT.
 W dniu dzisiejszym kontynuuję ten proces.
+
+24.05.2017
+Dzień 12
+W dniu wczorajszym kontynuowalem proces nauki SQL. Dzisiaj chcę dalej się go uczyc
+oraz napisać listę pizz którą potem umieścimy w bazie danych.
