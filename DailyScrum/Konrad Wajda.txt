@@ -35,6 +35,7 @@ W pierwszym pliku CSS umieœci³em zal¹¿ki id przysz³ych divów. W dniu dzisiejszym
 
 Raport 18.05.2017r:
 W dniu wczorajszym po raz pierwszy napotka³em problem za dokonaniem commitu. Rozwi¹za³em go, korzystaj¹c z opcji pull a dopiero nastepnie commit. Wczorajszy plan wykona³em.
+
 W dniu dzisiejszym planujê pracê z plikiem CSS naszej strony internetowej.
 
 Raport 19.05.2017r:
@@ -45,3 +46,8 @@ W dniu wczorajszym pracowa³em z plikiem css strony internetowej. Dzisiaj przepro
 Raport 23.05.2017r:
 W dniu wczorajszym na zajêciach dokonaliœmy podsumowania naszych dotychczasowych prac oraz wyznaczyliœmy nowe cele na najbli¿szy tydzieñ. Zosta³em wybrany Scrum Masterem
 na ten tydzieñ. W dniu dzisiejszym planuje zaj¹æ siê konstrukcj¹ kolejnych podstron naszej strony internetowej.
+
+Raport 24.05.2017r:
+W dniu wczorajszym zgodnie z planem zajmowa³em siê dalsz¹ konstrukcj¹ podstron naszej strony internetowej.Dokona³em m. in. po³¹czenia linków ze strony g³ównej z odpowiednimi podstronami. 
+W dniu dziosiejszym planuje dalsz¹ pracê z podstronami, do tej pory uda³o mi siê poprawiæ b³êdy w linkowaniu i parê innych drobnostek, m.in. nieestetyczne marginesy.
+
