@@ -28,8 +28,7 @@
 		float:left;
 		color:white;
 		background-color:#4d0000;
-		image-align: center;
-		margin-left:3%;
+		margin-left:1%;
 		margin-bottom: 1%;
 		margin-top: 1%;
 		height: 40%;
@@ -63,7 +62,7 @@
 		background-color:#424242;
 		margin: 1%;
 		height: 40%;
-		width: 20%;
+		width: 22%;
 		
 		
 		
@@ -111,7 +110,7 @@
 	{
 		background-color: 	#B53721; /*#A33643 Green */
     border: none;
-	width:100%;
+	width:95.5%;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -120,7 +119,7 @@
     font-size: 40px;
     margin: 4px 2px;
     cursor: pointer;
-	border-radius:50%;
+	border-radius:20%;
 	webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
 		
@@ -142,8 +141,7 @@
 		float:left;
 		color:white;
 		background-color:#4d0000;
-		image-align: center;
-		margin-left:3%;
+		margin-left:1%;
 		margin-bottom: 1%;
 		margin-top: 1%;
 		height: 40%;
@@ -155,8 +153,7 @@
 		float:left;
 		color:white;
 		background-color:#4d0000;
-		image-align: center;
-		margin-left:3%;
+		margin-left:1%;
 		margin-bottom: 1%;
 		margin-top: 1%;
 		height: 40%;
@@ -168,8 +165,7 @@
 		float:left;
 		color:white;
 		background-color:#4d0000;
-		image-align: center;
-		margin-left:3%;
+		margin-left:1%;
 		margin-bottom: 1%;
 		margin-top: 1%;
 		height: 40%;
