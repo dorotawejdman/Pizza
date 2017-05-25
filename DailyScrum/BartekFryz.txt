@@ -86,3 +86,11 @@ DZISIAJ
 Dalej tutoriale i pierwszy kod w django.
 
 
+Z DNIA - 25.05.2017
+
+WCZORAJ:
+Tutoriale Django od thenewboston dalej, polaczenie z baza danych mysql
+
+DZISIAJ
+ustawić django na serwerze
+
