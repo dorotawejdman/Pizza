@@ -53,3 +53,9 @@ W dniu dzisiejszym kontynuuję ten proces.
 Dzień 12
 W dniu wczorajszym kontynuowalem proces nauki SQL. Dzisiaj chcę dalej się go uczyc
 oraz napisać listę pizz którą potem umieścimy w bazie danych.
+
+25.05.2017
+Dzien 13.
+W dniu wczorajszym utworzylem menu naszej pizzerii. Zawiera ono pizze z podziałem na:
+razowe,wegetariańskie, "dużo mięsa" oraz specjalności szefa kuchni.
+W dniu dzisiejszym kontunuuję naukę SQL
