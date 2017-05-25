@@ -75,9 +75,17 @@ Udało się zrealizować założenia z dnia poprzedniego, tj. zdefiniowanie elem
 elementów w całość + napisanie wstępnej treści okna.
 
 Plan na dzisiaj:
-Dodanie (+połączenie w jedną całość) do utworzonego dotychczas kodu okna napisanych w tygodniu ubiegłym 
+Dodanie (+połączenie w jedną całość) do utworzonego dotychczas kodu okna, napisanych w tygodniu ubiegłym 
 funkcji jQuery. Wykorzystane zostaną: fadeIn, FadeOut oraz overFlow dla segmentu body. Trzymajcie kciuki żeby się
  udało!
 
+25.05.2017
+Wczoraj:
+Z powodzeniem dodane zostały do utworzonego dotychczas kodu okna, napisanych w tygodniu ubiegłym 
+funkcji jQuery. Wykorzystane zostały: fadeIn oraz FadeOut.
+
+Plan na dzisiaj:
+Utworzenie konretnej, finalnej treści okna, tj. kreatywny tytuł, rekordy z danymi do zamówienia + pole 
+do wprowadzania tekstu dla kazdego. Ponnadto dodanie przycisku "zapisz dane" połaczonego z funkcją zamykania okna.
 
 
