@@ -88,4 +88,14 @@ Plan na dzisiaj:
 Utworzenie konretnej, finalnej treści okna, tj. kreatywny tytuł, rekordy z danymi do zamówienia + pole 
 do wprowadzania tekstu dla kazdego. Ponnadto dodanie przycisku "zapisz dane" połaczonego z funkcją zamykania okna.
 
+26.05.2017
+Wczoraj:
+Udało się dopiąć założonego planu, tj utworzenie konretnej, finalnej treści okna, tj. kreatywny tytuł, rekordy z danymi do zamówienia + pole 
+do wprowadzania tekstu dla kazdego. Ponnadto dodanie przycisku "zapisz dane" połaczonego z funkcją zamykania okna.
+
+Plan na dzisiaj:
+Dopasować kolor okna do imidżu strony, zmienić czas FadeIn oraz FadeOut na dłuższy, napisanie kodu obsługującego
+wyświetlanie potwierdzenia dla uzytkownika, które pokaże się po zamknięciu okna zamówienia. Potwierdzenie będzie
+generowane przy użyciu funkcji Alert.
+
 
