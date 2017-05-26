@@ -54,3 +54,6 @@ W dniu dziosiejszym planuje dalsz¹ pracê z podstronami, do tej pory uda³o mi siê
 Raport 25.05.2017r.:
 Wczoraj dokona³em drobnych korekt w kodzie HTML i CSS naszych podstron. Dzisiaj zamierzam zaj¹æ siê stworzeniem menu naszych pizz w formie tabeli na podstawie projektu kolegi Piotra.
 
+Raport 26.05.2017r:
+W dniu wczorajszym zaimplementowa³em menu naszych pizz, dziel¹c je zgodnie z pomys³em kolegi na ró¿ne kategorie. W ten sposób ka¿da z naszych podstron doczeka³a siê treœci.
+Dzisiaj planujê przejrzenie kodu i byæ mo¿e poprawienie go.
