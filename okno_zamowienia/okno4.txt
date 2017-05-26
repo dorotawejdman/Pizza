@@ -1,0 +1,79 @@
+<style>
+		
+		body 
+
+		.okienko-baza {
+			display: none;
+			background-color: rgba(200, 200, 200, .8);
+			width: 100%;
+			height: 100%;
+			position: fixed;
+			top: 0;
+			z-index: 9999;
+			overflow: auto;
+		}
+
+		.okienko-wnetrze {
+			background-color: black;
+			padding: 20px;
+			width: 50%;
+			margin: 0 auto;
+			text-align: center;
+			position: relative;
+			margin-top: 12%;
+		}
+
+		.okienko-zamknij {
+			
+		}
+
+	</style>
+
+
+<div id="okienko1" class="okienko-baza">
+	<div class="okienko-wnetrze">
+		
+		<h1>Tylko krok od wymarzonej pizzy!</h1>
+		<p>Imiê zamawiaj¹cego:		<input type="text" id="test" value=""></p>
+		<p>Nazwisko zamawiaj¹cego: <input type="text" id="testt" value=""></p>
+		<p>Adres dostawy: <input type="text" id="test1" value=""></p>
+		<p>Numer telefonu: <input type="text" id="test2" value=""></p>
+		<p>Numer wybranej pizzy: <input type="text" id="test3" value=""></p>
+		<p>Godzina dostarczenia: <input type="text" id="test4" value=""></p>
+		<p>(Pozostawienie ostatniego pola pustego oznacza dostawê najszybsz¹ jak to mo¿liwe)</p>
+		
+<span class="okienko-zamknij"><button>Zapisz dane</button></span>
+
+
+	</div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+$(function(){
+	$(".uruchom-okienko").click(function(e){
+		e.preventDefault();
+
+		$("body").css("overflow", "hidden");
+
+		var idOkienka = $(this).attr("data-okienkoId");
+		$(idOkienka).fadeIn(1000);
+
+		// Zamkniêcie okienka
+		$(idOkienka).find(".okienko-zamknij").click(function(){
+			$(idOkienka).fadeOut(700, function(){
+				$("body").css("overflow", "auto");
+ alert('Przyjêto zamówienie na poni¿sze dane:' + '\n\nImie: ' + $("#test").val() + '\nNazwisko: ' + $("#testt").val()
+ + '\nAdres dostawy: ' + $("#test1").val() 
++ '\nPodany numer telefonu: ' + $("#test2").val() 
++ '\nWybrana pizza: ' + $("#test3").val() 
++ '\nGodzina dostarczenia: ' + $("#test4").val()
++ '\n\nDziêkujêmy i ¿yczymy smacznego!');
+			});
+		});
+
+	});
+});
+</script>
+
+<a href="" class="uruchom-okienko" data-okienkoId="#okienko1">Uruchom popup</a>
