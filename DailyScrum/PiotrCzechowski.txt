@@ -59,3 +59,8 @@ Dzien 13.
 W dniu wczorajszym utworzylem menu naszej pizzerii. Zawiera ono pizze z podziałem na:
 razowe,wegetariańskie, "dużo mięsa" oraz specjalności szefa kuchni.
 W dniu dzisiejszym kontunuuję naukę SQL
+
+26.05.2017
+Dzien 14.
+W dniu wczorajszym uczylem się SQL. Dzisiaj ukończę tabelę z pizzami 
+zapoznając się jednocześnie z dokładną ofertą innych pizzerii w celu zwiększenia konkurencyjności.
