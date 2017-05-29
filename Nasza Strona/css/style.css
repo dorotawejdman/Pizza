@@ -188,6 +188,10 @@
 		text-align:center;
 		
 	}
+	#normal
+	{	
+	background-color:#4d0000;
+	}
 	#orange
 	{
 		background-color:#AA7339;
@@ -212,5 +216,6 @@
 	#head
 	{
 		font-size:230%;
+		background-color:#4d0000;
 	}
 	
