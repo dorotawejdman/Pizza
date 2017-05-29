@@ -170,3 +170,52 @@
 		margin-top: 1%;
 		height: 40%;
 	}
+	table
+	{
+		
+		
+		border:1px solid red;
+		border-collapse:collapse;
+		width:100%;
+		
+		
+	}
+	th,td
+	{
+		border:1px solid red;
+		border-collapse:collapse;
+		padding:15px;
+		text-align:center;
+		
+	}
+	#normal
+	{	
+	background-color:#4d0000;
+	}
+	#orange
+	{
+		background-color:#AA7339;
+	}
+	
+	#brown
+	{
+		background-color:#954707;
+	}
+	#green
+	{
+		background-color:#2D6917;
+	}
+	#alternative
+	{
+		background-color:#669933;
+	}
+	#dnia
+	{
+		background-color:#C65874;
+	}
+	#head
+	{
+		font-size:230%;
+		background-color:#4d0000;
+	}
+	
