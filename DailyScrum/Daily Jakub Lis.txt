@@ -99,3 +99,11 @@ wyświetlanie potwierdzenia dla uzytkownika, które pokaże się po zamknięciu 
 generowane przy użyciu funkcji Alert.
 
 
+29.05.2017
+Wczoraj:
+Został zmieniony kolor okna na czarny, wydłużone zostały czasy FadeIn oraz FadeOut, kompletna 
+implementacja okna potwierdzającego zamówienie. Zadanie zostało wykonane przy użyciu funkcji Alert.
+Plan na dzisiaj:
+Umieścić utworzony dotychczas kod na naszej stronie + podłączyć link wywołujący okno zamówienia do przycisku "Zamów"
+znajdującego się na dole strony /tymczasowo/.
+
