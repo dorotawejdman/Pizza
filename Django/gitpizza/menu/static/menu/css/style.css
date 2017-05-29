@@ -209,4 +209,47 @@
 	{
 		font-size:230%;
 	}
-	
+
+	#order {
+	    width: 80%;
+
+	    margin-left: auto;
+	    margin-right: auto;
+	    padding-top: 50px;
+	}
+
+	#order_content {
+	    width: 75%;
+	    margin-right: 5%;
+	    float: left;
+	}
+
+	#order_menu {
+        background-color: #EDDFD1;
+	    width: 20%;
+	    float: left;
+	    border-radius: 25px;
+
+	    text-align: center;
+	}
+
+	a.order_button {
+	    display: block;
+	    margin-bottom: 0px;
+	    width: 100%;
+	    background-color: #24662A;
+	    height: 85px;
+	    line-height: 85px;
+	    font-size: 160%;
+
+	    color: #FFF;
+	    text-decoration: none;
+	}
+
+	a.order_button:hoover {
+        font-size: 600%;
+	}
+
+	b {
+	    font-family: Ariel;
+	}
