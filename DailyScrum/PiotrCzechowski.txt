@@ -64,3 +64,9 @@ W dniu dzisiejszym kontunuuję naukę SQL
 Dzien 14.
 W dniu wczorajszym uczylem się SQL. Dzisiaj ukończę tabelę z pizzami 
 zapoznając się jednocześnie z dokładną ofertą innych pizzerii w celu zwiększenia konkurencyjności.
+
+27.05.2017
+Dzień 15.
+W dniu dzisiejszym ustaliliśmy plan działania na najbliższy tydzień.
+Wczoraj i dziś pracowałem nad poprawą wizualną menu naszej pizzerii.
+Zamierzam w najbliższym czasie kontynuować te działania, szczególnie poświęcając swoją uwagę zakładce"o projekcie".
