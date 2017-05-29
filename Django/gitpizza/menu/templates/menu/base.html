@@ -1,0 +1,64 @@
+{% load staticfiles %}
+
+<!DOCTYPE HTML>
+<html lang="pl">
+
+<head>
+	<meta charset="utf-8" />
+	<title> "Najlepsza pizza w mieście"</title>
+	<meta name="description" content="Najlepsza, tania pizza z dowozem w Krakowie, czyli szybkie jedzenie na zamówienie"/>
+	<meta name="keywords" content="pizza, jedzenie, tanio, kraków, dowóz, najlepsza" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<link rel="stylesheet" href="{% static 'mainpage/css/style.css'%}" type="text/css">
+	<link rel="stylesheet" href="{% static 'mainpage/css/fontello/css/bucket.css'%} " type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Crete+Round|IM+Fell+DW+Pica|Varela+Round" rel="stylesheet">
+	
+</head>
+
+<body>
+<div id=container>
+
+
+	<div id=logo>
+		
+		<h1>  GitPizza</h1>
+	
+	<div id=mainmenu>
+		<div class=option ><a href="./../" style="color:white;text-decoration:none;">Strona głowna</a></div>
+		<div class=option ><a href="./menu" style="color:white;text-decoration:none;"> Menu/Zamów pizze!  </a></div>
+		<div class=option ><a href="./../info/o-nas" style="color:white;text-decoration:none;">Kontakt/O nas</a></div>
+		<div class=option><a href="./../info/o-projekcie" style="color:white;text-decoration:none;">O projekcie</a></div>
+		<div class=option2></div>
+		<div class=option style="margin-right:1%"> <i class="icon-basket"></i></div>
+		<div style="clear:both"></div>
+	</div>
+	</div>
+
+    {% block body %}
+	{% endblock %}
+
+	<div id=ad>
+	
+		<a  
+		target="_blank"
+		title="Zobacz gdzie inspirowali się nasi kucharze i przenieś się tam kosztując naszej pizzy!"
+		href="https://www.google.pl/search?q=italia&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiCwvnT1PHTAhUhJ5oKHW6YAVgQ_AUICygC&biw=1536&bih=687#tbm=isch&q=italian+view"> 
+		<img src="{% static 'mainpage/css/images/coo1k.jpg'%}" style="width:100%;height:50%">
+	
+		</a> 
+	</div>
+	
+	<div id=footer>
+		Wszelkie prawa zastrzeżone! &copy;          
+		&emsp;
+		&emsp;
+		&emsp;
+		&emsp;
+		Znajdź nas! 
+		<i class="icon-instagram-filled" style="padding-left:10px"></i>
+		<i class="icon-facebook-rect" style="padding-top:30px"></i> 
+		<!--<i class="icon-food"></i> --
+	</div>
+</div>
+</body>
+</html>

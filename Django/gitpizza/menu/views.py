@@ -2,6 +2,9 @@
 from __future__ import unicode_literals
 
 from django.http import HttpResponse
+from django.template import loader
 
 def index(request):
-    return HttpResponse("<h1>This is menu homepage</h1>")
+    template = loader.get_template('menu/index.html')
+    context = {}
+    return HttpResponse(template.render(context, request))
