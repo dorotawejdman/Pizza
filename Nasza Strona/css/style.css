@@ -173,13 +173,9 @@
 	}
 	table
 	{
-		
-		
 		border:1px solid black;
 		border-collapse:collapse;
 		width:100%;
-		
-		
 	}
 	th,td
 	{
@@ -189,6 +185,7 @@
 		text-align:center;
 		
 	}
+	
 	#normal
 	{	
 	background-color:#4d0000;
