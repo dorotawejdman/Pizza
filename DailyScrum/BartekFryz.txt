@@ -94,3 +94,10 @@ Tutoriale Django od thenewboston dalej, polaczenie z baza danych mysql
 DZISIAJ
 ustawić django na serwerze
 
+Z DNIA - 25.05.2017
+
+WCZORAJ:
+Zmieniłem layout strony menu.
+
+DZISIAJ
+mam zamiar połaczy koszyk z baza danych
