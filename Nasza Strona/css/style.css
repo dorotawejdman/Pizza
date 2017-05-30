@@ -108,7 +108,7 @@
 	
 	a.button1
 	{
-		background-color: 	#B53721; /*#A33643 Green */
+		background-color: 	#B53721; 
     border: none;
 	width:95.5%;
     color: white;
@@ -119,8 +119,8 @@
     font-size: 40px;
     margin: 4px 2px;
     cursor: pointer;
-	border-radius:20%;
-	webkit-transition-duration: 0.4s; /* Safari */
+	border-radius:0%;
+	webkit-transition-duration: 0.4s; 
     transition-duration: 0.4s;
 		
 		
