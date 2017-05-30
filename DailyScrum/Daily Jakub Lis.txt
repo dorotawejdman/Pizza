@@ -93,7 +93,7 @@ Wczoraj:
 Udało się dopiąć założonego planu, tj utworzenie konretnej, finalnej treści okna, tj. kreatywny tytuł, rekordy z danymi do zamówienia + pole 
 do wprowadzania tekstu dla kazdego. Ponnadto dodanie przycisku "zapisz dane" połaczonego z funkcją zamykania okna.
 
-Plan na dzisiaj:
+Plan na Zostaną
 Dopasować kolor okna do imidżu strony, zmienić czas FadeIn oraz FadeOut na dłuższy, napisanie kodu obsługującego
 wyświetlanie potwierdzenia dla uzytkownika, które pokaże się po zamknięciu okna zamówienia. Potwierdzenie będzie
 generowane przy użyciu funkcji Alert.
@@ -106,4 +106,12 @@ implementacja okna potwierdzającego zamówienie. Zadanie zostało wykonane przy
 Plan na dzisiaj:
 Umieścić utworzony dotychczas kod na naszej stronie + podłączyć link wywołujący okno zamówienia do przycisku "Zamów"
 znajdującego się na dole strony /tymczasowo/.
+
+30.05.2017
+Wczoraj: Z małymi problemami ale udało się zdążyć wykonać wszystkie zaplanowane działania. Na serwerze
+umieszczony został dotychczas opracowany kod źródłowy oraz zostało podpięte okno zamówienia pod przycisk zamów.
+Plan na dzisiaj: jako nowy scrum master muszę ocenić stan dotychczas osiągniętego całokształtu w naszym projekcie
+oraz podjąć stosowne decyzje na temat dalszego jego rozwoju. Zostaną przydzielone nowe zadania dla każdego z uczestników.
+
+
 
