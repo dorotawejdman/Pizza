@@ -64,3 +64,6 @@ Raport 30.05.2017r:
 W dniu wczorajszym dokonaliœmy cotygodniowego podsumowania naszych dotychczasowych osi¹gniêæ i zaplanowaliœmy pracê na kolejny tydzieñ. Ust¹pi³em równie¿ ze stanowiska
 Scrum Mastera, przekazuj¹c t¹ zaszczytn¹ funkcjê koledze Jakubowi.  Na dzieñ dzisiejszy zaplanowa³em dalsze usprawnienia naszej strony internetowej, ze szczególnym naciskiem 
 na szatê graficzn¹ przycisku przekierowuj¹cego na formularz zamówieñ.
+
+Raport 31.05.2017r:
+W dniu wczorajszym zgodnie z planem dokona³em zmian w wygl¹dzie przycisku ZAMÓW na stronie g³ównej. Dzisiaj zamierzam kontynuowaæ swoje dzie³o, polepszaj¹c równie¿ resztê stron.
