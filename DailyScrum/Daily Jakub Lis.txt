@@ -113,5 +113,13 @@ umieszczony został dotychczas opracowany kod źródłowy oraz zostało podpięt
 Plan na dzisiaj: jako nowy scrum master muszę ocenić stan dotychczas osiągniętego całokształtu w naszym projekcie
 oraz podjąć stosowne decyzje na temat dalszego jego rozwoju. Zostaną przydzielone nowe zadania dla każdego z uczestników.
 
+31.05.2017
+Wczoraj: Obszerny rzut oka na powierzony w moje ręce projekt pozwolił ocenić jego stopień ukończenia. Dzięki
+wzorowej pracy poprzednich scrum masterów oraz ich podwładnych projekt może pochwalić się brakiem jakichkolwiek zaległości
+oraz dość wysokim stopniem ukoczenia. Na bieżący tydzień zadecydowałem o następującym podziale obowiązków:
+Dopracowanie wyglądu menu - Dorota Wejdman; Naprawa przycisku zamów - Konrad Wajda. Usprawnienie bazy danych - Bartłomiej
+Fryz; uzupelnienie treści zakladki o nas - pitri97.
+Plan na dzisiaj: chwilowa przerwa w pracy ze względu na kolkwium zaliczeniowe z Analizy (poważnie).
+
 
 
