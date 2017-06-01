@@ -122,4 +122,10 @@ Fryz; uzupelnienie treści zakladki o nas - pitri97.
 Plan na dzisiaj: chwilowa przerwa w pracy ze względu na kolkwium zaliczeniowe z Analizy (poważnie).
 
 
-
+01.06.2017:
+Wczoraj: zgodnie z zapowiedzią dzień wczorajszy był dniem przerwy od pracy z powodu ważnego kolokwium zaliczeniowego
+z Analizy.
+Plan na dzisiaj: sprawdzenie postępu prac przydzielonych zespołowi na platformie GitHub. Bardzo pomocnym jak się
+ przekonalem w poprzednich tygodniach są przypomnienia od scrum mastera kierowane w stronę developerow, więc i ja
+postanowiłem tego dokonać. Przypomnienia rozsyłane są wiadomościami na facebooku. Ponadto w planie jest aktualizacja
+zakładki Isuues na GitHubie.
