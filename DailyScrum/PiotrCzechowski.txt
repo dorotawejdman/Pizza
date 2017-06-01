@@ -82,3 +82,8 @@ konkretny koncept tego jak ma ona wyglądać by nie była "tania".
 Dzień 17.
 W dniu wczorajszym wprowadziłem drobne zmiany w zakładce "o projekcie".
 W dniu dzisiejszym będę kontynuować polepszanie wizerunku tej zakładki.
+
+1.06.2017
+Dzień 18.
+W dniu wczorajszym wykonałem commit do zakładki "o projekcie", jednak dziś okazało się, że z jakiegoś powodu nie został on 
+zarejestrowany. Dlatego dzisiaj zacznę od tego wczorajszego commita, a następnie wykonam tego przeznaczonego na dzień dzisiejszy. Strona ma już dość jasny zarys, jest estetyczna. Będę dziś pracował by jeszcze bardziej ją dopracować.
