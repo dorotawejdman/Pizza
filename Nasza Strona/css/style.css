@@ -80,15 +80,16 @@
 	#mainmenu
 	{
 		background-color: #000000;
-		font-size:28px;
+		font-size:17px;
 		
 		<!--border: 1px solid #424242;-->
 	}
 	.option
 	{
-		
+		overflow: hidden;
+ 		text-overflow: ellipsis;	
 		float:left;
-		height: 32px;
+		height: 40px;
 		width: 12%;
 		padding: 1%;
 		margin: 2px;
@@ -96,7 +97,7 @@
 	}
 	.option:hover
 	{
-		height: 32px;
+		height: 40px;
 		background-color:#263238;
 		cursor: pointer;
 		width: 12%;
