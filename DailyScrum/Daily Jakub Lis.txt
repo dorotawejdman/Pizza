@@ -129,3 +129,15 @@ Plan na dzisiaj: sprawdzenie postępu prac przydzielonych zespołowi na platform
  przekonalem w poprzednich tygodniach są przypomnienia od scrum mastera kierowane w stronę developerow, więc i ja
 postanowiłem tego dokonać. Przypomnienia rozsyłane są wiadomościami na facebooku. Ponadto w planie jest aktualizacja
 zakładki Isuues na GitHubie.
+
+02.06.2017
+Wczoraj: wykonane zostały wszystkie przydzielone na tamten dzień zadania. Sprawdzony został postęp prac przydzielonych
+zespołowi. Bardzo miłym zaskoczeniem było to, że ponad połowa zaplanowanych zadań jest już na ukonczeniu. Mam tutaj
+na myśli uzupełnienie zakładki "O nas" oraz naprawę przycisku służącego do zamawiania pizzy. Rozesłane zostały
+przypomnienia odnoście Daily scrumów, aczkolwiek większość zespołu o nich nigdy nie zapomina. Zakładka Issues na platformie
+GitHub została zaktualizowana o okatualny stan projektu.
+Plan na dzisiaj:
+Z racji tego że zadaniem scrum mastera jest dbanie o wspólpracę zespołu oraz wykonywanie działań mających na celu
+podniesienie produktywności zespołu zdecydowalem o zorganizowaniu wspólnego wyjścia na Miasteczko studenckie AGH.
+Przewidywany będzie grill z tłustymi przysmakami, napoje odprężające oraz rozluźniająca muzyka. Mam nadzieję że
+zespół dzięki temu jeszcze lepiej się zintegruje oraz zregeneruje siły do dalszej pracy nad projektem. Trzymajcie kciuki! 
