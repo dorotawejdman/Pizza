@@ -93,6 +93,7 @@
 		width: 12%;
 		padding: 1%;
 		margin: 2px;
+		font-size:150%;
 		<!--border-right: 1px solid #263238;-->
 	}
 	.option:hover
