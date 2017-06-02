@@ -86,25 +86,34 @@
 	}
 	.option
 	{
+		
 		float:left;
-		width: 13%;
+		height: 32px;
+		width: 12%;
 		padding: 1%;
-		margin: 4px;
+		margin: 2px;
 		<!--border-right: 1px solid #263238;-->
 	}
 	.option:hover
 	{
+		height: 32px;
 		background-color:#263238;
 		cursor: pointer;
+		width: 12%;
 	}
 	.option2
 	{
 		float:left;
 		width: 20%;
-		margin: 4px;
+		margin: 2px;
 		<!--border-right: 1px solid #263238;-->
 	}
-
+	.option2:hover
+	{
+		background-color:#263238;
+		cursor: pointer;
+		width: 20%;
+	}
 	
 	a.button1
 	{
