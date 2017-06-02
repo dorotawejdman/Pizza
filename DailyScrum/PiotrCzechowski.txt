@@ -87,3 +87,9 @@ W dniu dzisiejszym będę kontynuować polepszanie wizerunku tej zakładki.
 Dzień 18.
 W dniu wczorajszym wykonałem commit do zakładki "o projekcie", jednak dziś okazało się, że z jakiegoś powodu nie został on 
 zarejestrowany. Dlatego dzisiaj zacznę od tego wczorajszego commita, a następnie wykonam tego przeznaczonego na dzień dzisiejszy. Strona ma już dość jasny zarys, jest estetyczna. Będę dziś pracował by jeszcze bardziej ją dopracować.
+
+2.06.2017
+Dzień 19.
+W dniu wczorajszym poprawiłem wszystkie błedy popełnione w środę.
+Zakładka "o projekcie" nabiera charakteru. Dzisiaj będę pracował nad jej polepszeniem oraz drobnymi zmianami także na innych stronach. 
+Chciałbym dodać ikonę oraz zrobić coś z przyciskami, aby nie "rozłaziły się" przy powiększaniu lub zmniejszaniu.
