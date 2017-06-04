@@ -228,7 +228,7 @@
         background-color: #F2F2F2;
 	    width: 20%;
 	    float: left;
-	    border-radius: 25px;
+	    border-radius: 15px;
 
 	    text-align: center;
 	}
@@ -241,6 +241,7 @@
 	    height: 85px;
 	    line-height: 85px;
 	    font-size: 160%;
+		border-radius: 0px 0px 15px 15px;
 
 	    color: #FFF;
 	    text-decoration: none;
@@ -252,4 +253,13 @@
 
 	b {
 	    font-family: Ariel;
+	}
+
+	#pizza a {
+	    color: #FFF;
+	    text-decoration: none;
+	}
+
+	#pizza a:hover {
+        text-decoration: underline;
 	}
