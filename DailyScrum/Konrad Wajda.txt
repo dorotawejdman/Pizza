@@ -57,3 +57,13 @@ Wczoraj dokona³em drobnych korekt w kodzie HTML i CSS naszych podstron. Dzisiaj 
 Raport 26.05.2017r:
 W dniu wczorajszym zaimplementowa³em menu naszych pizz, dziel¹c je zgodnie z pomys³em kolegi na ró¿ne kategorie. W ten sposób ka¿da z naszych podstron doczeka³a siê treœci.
 Dzisiaj planujê przejrzenie kodu i byæ mo¿e poprawienie go.
+
+...............................................................Tydzieñ 4.........................................................................
+
+Raport 30.05.2017r:
+W dniu wczorajszym dokonaliœmy cotygodniowego podsumowania naszych dotychczasowych osi¹gniêæ i zaplanowaliœmy pracê na kolejny tydzieñ. Ust¹pi³em równie¿ ze stanowiska
+Scrum Mastera, przekazuj¹c t¹ zaszczytn¹ funkcjê koledze Jakubowi.  Na dzieñ dzisiejszy zaplanowa³em dalsze usprawnienia naszej strony internetowej, ze szczególnym naciskiem 
+na szatê graficzn¹ przycisku przekierowuj¹cego na formularz zamówieñ.
+
+Raport 31.05.2017r:
+W dniu wczorajszym zgodnie z planem dokona³em zmian w wygl¹dzie przycisku ZAMÓW na stronie g³ównej. Dzisiaj zamierzam kontynuowaæ swoje dzie³o, polepszaj¹c równie¿ resztê stron.

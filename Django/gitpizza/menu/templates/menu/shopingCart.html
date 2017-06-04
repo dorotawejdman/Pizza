@@ -1,0 +1,97 @@
+{% extends 'menu/base.html' %}
+{% load staticfiles %}
+
+{% block body %}
+
+    <div id="order">
+		<div id="order_content">
+			<h1>Nasze pizze:</h1>
+			<hr>
+
+			<h1>Pizza dnia:</h1>
+			{% for x in allPizzas %}
+			{% if x.type == 'pizza dnia' %}
+			<div id="pizza" style="text-decoration: underline">
+			<h2>{{x.name}} - <i>{{x.description}}</i></br>
+				<b><a href="./{{ x.pk }}">{{ x.price|add:"-4" }} PLN</a></b>, <b><a href="./{{ x.pk }}">{{x.price}} PLN</a></b>, <b><a href="./{{ x.pk }}">{{ x.price|add:"4" }} PLN</a></b></h2>
+			</div>
+			{% endif %}
+			{% endfor %}
+			<br/>
+
+			{% for x in allPizzas %}
+			{% if x.type == 'brak' %}
+			<div id="pizza">
+			<h2>{{x.name}} - <i>{{x.description}}</i></br>
+				<b><a href="./{{ x.pk }}">{{ x.price|add:"-4" }} PLN</a></b>, <b><a href="./{{ x.pk }}">{{x.price}} PLN</a></b>, <b><a href="./{{ x.pk }}">{{ x.price|add:"4" }} PLN</a></b></h2>
+			</div>
+			{% endif %}
+			{% endfor %}
+			<br/>
+
+			<h1>Ciasto razowe:</h1>
+			{% for x in allPizzas %}
+			{% if x.type == 'Razowe' %}
+			<div id="pizza">
+			<h2>{{x.name}} - <i>{{x.description}}</i></br>
+				<b><a href="./{{ x.pk }}">{{ x.price|add:"-4" }} PLN</a></b>, <b><a href="./{{ x.pk }}">{{x.price}} PLN</a></b>, <b><a href="./{{ x.pk }}">{{ x.price|add:"4" }} PLN</a></b></h2>
+			</div>
+			{% endif %}
+			{% endfor %}
+			<br/>
+
+			<h1>Dużo mięsa:</h1>
+			{% for x in allPizzas %}
+			{% if x.type == 'Dużo mięsa' %}
+			<div id="pizza">
+			<h2>{{x.name}} - <i>{{x.description}}</i></br>
+				<b><a href="./{{ x.pk }}">{{ x.price|add:"-4" }} PLN</a></b>, <b><a href="./{{ x.pk }}">{{x.price}} PLN</a></b>, <b><a href="./{{ x.pk }}">{{ x.price|add:"4" }} PLN</a></b></h2>
+			</div>
+			{% endif %}
+			{% endfor %}
+			<br/>
+
+			<h1>Wegetariańskie:</h1>
+			{% for x in allPizzas %}
+			{% if x.type == 'Wegetariańskie' %}
+			<div id="pizza">
+			<h2>{{x.name}} - <i>{{x.description}}</i></br>
+				<b><a href="./{{ x.pk }}">{{ x.price|add:"-4" }} PLN</a></b>, <b><a href="./{{ x.pk }}">{{x.price}} PLN</a></b>, <b><a href="./{{ x.pk }}">{{ x.price|add:"4" }} PLN</a></b></h2>
+			</div>
+			{% endif %}
+			{% endfor %}
+			<br/>
+
+			<hr>
+			<h2>*Rozmiary pizz: <br/>
+				<b>25cm</b>, <b>35cm</b>, <b>40cm</b></h2>
+			</h2>
+
+		</br></br></br>
+		</div>
+		<div id="order_menu">
+			<h1 style="border-radius: 15px 15px 0px 0px; display: block; margin-top: 0px; width: 100%; background-color: #C72100; height: 85px; line-height: 85px; font-size: 160%;">Twoje zamówienie:</h1>
+
+			<p style="color: #000; font-size: 130%;">
+			koszyk pusty</br><hr></p>
+			<p style="color: #000; font-size: 130%;">
+			cena: <b style="font-family: Ariel;">0 PLN</b>
+				</br></p>
+
+
+			<a href="" class="order_button">Zamów</a>
+		</div>
+
+		<div id="order_menu" style="margin-top: 25px;">
+			<h1 style="border-radius: 15px 15px 0px 0px; display: block; margin-top: 0px; width: 100%; background-color: #C72100; height: 85px; line-height: 85px; font-size: 160%;">Nasz adres:</h1>
+
+			<p style="color: #000; font-size: 130%;">
+			ul. Tortoisowo Gitowa 13</br> 32-432 Kraków</br><hr></p>
+			<p style="color: #000; font-size: 130%;">
+			Telefon: 777 777 777</br></p>
+		</div>
+
+	</div>
+
+
+{% endblock %}

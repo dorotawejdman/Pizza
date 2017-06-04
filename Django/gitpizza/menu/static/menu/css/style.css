@@ -1,0 +1,265 @@
+	body
+	{
+		/* Background pattern from Subtle Patterns */
+		background-image:url("images/zigzag.png");
+		color:white;
+		font-family: 'IM Fell DW Pica', serif;
+	}
+	#container
+	{
+		width: 100%;
+	
+		
+	}
+	#logo
+	{
+		background-color:black;
+		color: white;
+		text-align: center;
+		padding:10px;
+		font-size: 30px;
+		border-bottom: 1px solid #424242;
+	}
+	
+	#content
+	{
+		border:none;
+		width: 75%;
+		float:left;
+		color:white;
+		background-color:#4d0000;
+		margin-left:1%;
+		margin-bottom: 1%;
+		margin-top: 1%;
+		height: 40%;
+		
+		
+	}
+	#pizzadnia
+	{
+		
+		
+		padding:1px;
+		margin-bottom:0px;
+		margin-top:0px;
+		margin-right:0px;
+		margin-left:0px;
+	}
+	#zamow
+	{
+		width:100% ;
+		background-color: black;
+		
+		height: 200px;
+		
+		
+	}
+	
+	#ad
+	{
+		border:none;
+		float:left;
+		background-color:#424242;
+		margin: 1%;
+		height: 40%;
+		width: 22%;
+		
+		
+		
+		
+	}
+	#footer
+	{
+		clear: both;
+		padding:10px;
+		text-align: center;
+		color:white;
+		background-color: black;
+		border-top: 1px solid #424242;
+	}	
+	#mainmenu
+	{
+		background-color: #000000;
+		font-size:28px;
+		
+		<!--border: 1px solid #424242;-->
+	}
+	.option
+	{
+		float:left;
+		width: 13%;
+		padding: 1%;
+		margin: 4px;
+		<!--border-right: 1px solid #263238;-->
+	}
+	.option:hover
+	{
+		background-color:#263238;
+		cursor: pointer;
+	}
+	.option2
+	{
+		float:left;
+		width: 20%;
+		margin: 4px;
+		<!--border-right: 1px solid #263238;-->
+	}
+
+	
+	a.button1
+	{
+		background-color: 	#B53721; /*#A33643 Green */
+    border: none;
+	width:95.5%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius:20%;
+	webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+		
+		
+	}
+	
+	a.button1:hover
+	{
+		color:black;
+		background-color: #AA6E39;
+		cursor: pointer;
+		
+	}
+	
+	#menupizzy
+	{
+		border:none;
+		width: 75%;
+		float:left;
+		color:white;
+		background-color:#4d0000;
+		margin-left:1%;
+		margin-bottom: 1%;
+		margin-top: 1%;
+		height: 40%;
+	}
+	#onas
+	{
+		border:none;
+		width: 75%;
+		float:left;
+		color:white;
+		background-color:#4d0000;
+		margin-left:1%;
+		margin-bottom: 1%;
+		margin-top: 1%;
+		height: 40%;
+	}
+	#oprojekcie
+	{
+		border:none;
+		width: 75%;
+		float:left;
+		color:white;
+		background-color:#4d0000;
+		margin-left:1%;
+		margin-bottom: 1%;
+		margin-top: 1%;
+		height: 40%;
+	}
+	table
+	{
+		
+		
+		border:1px solid red;
+		border-collapse:collapse;
+		width:100%;
+		
+		
+	}
+	th,td
+	{
+		border:1px solid red;
+		border-collapse:collapse;
+		padding:15px;
+		
+	}
+	#orange
+	{
+		background-color:#AA7339;
+	}
+	
+	#brown
+	{
+		background-color:#954707;
+	}
+	#green
+	{
+		background-color:#2D6917;
+	}
+	
+	#dnia
+	{
+		background-color:#C65874;
+	}
+	#head
+	{
+		font-size:230%;
+	}
+
+	#order {
+	    width: 80%;
+
+	    margin-left: auto;
+	    margin-right: auto;
+	    padding-top: 50px;
+	}
+
+	#order_content {
+	    width: 75%;
+	    margin-right: 5%;
+	    float: left;
+	}
+
+	#order_menu {
+        background-color: #F2F2F2;
+	    width: 20%;
+	    float: left;
+	    border-radius: 15px;
+
+	    text-align: center;
+	}
+
+	a.order_button {
+	    display: block;
+	    margin-bottom: 0px;
+	    width: 100%;
+	    background-color: #24662A;
+	    height: 85px;
+	    line-height: 85px;
+	    font-size: 160%;
+		border-radius: 0px 0px 15px 15px;
+
+	    color: #FFF;
+	    text-decoration: none;
+	}
+
+	a.order_button:hoover {
+        font-size: 600%;
+	}
+
+	b {
+	    font-family: Ariel;
+	}
+
+	#pizza a {
+	    color: #FFF;
+	    text-decoration: none;
+	}
+
+	#pizza a:hover {
+        text-decoration: underline;
+	}

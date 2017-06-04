@@ -1,0 +1,68 @@
+
+body
+{
+	background-image:url("./../images/ananas.jpEg");
+	background-position: top;
+	font-family: 'IM Fell DW Pica', serif;
+
+#container
+{
+	
+}
+
+
+#menu
+{
+	
+	
+}
+
+#logo
+{
+	
+}
+
+#content
+{
+	
+	
+}
+
+#footer
+{
+	
+	
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+li {
+float:left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: forestgreen;
+}
+div.glowny
+{
+	
+	background-image: url("images/ananas.jpg");
+    background-size: 80px 60px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+
+}
+
+
+

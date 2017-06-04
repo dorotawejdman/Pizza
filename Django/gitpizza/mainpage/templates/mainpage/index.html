@@ -1,0 +1,21 @@
+{% extends 'mainpage/base.html' %}
+{% load staticfiles %}
+
+{% block body %}
+	<div id=content>
+		<div id=pizzadnia>
+			<h1> Pizza Dnia</h1>
+			<img src="{% static 'mainpage/css/images/pizza.jpeg'%}" width="100%" />
+			<h2> Składniki</h2><br/>
+			Pieczarki z lasku Wolskiego <br/>
+			Rukola ścięta prosto z naszego ogrodu<br/>
+			Świeże pomidory zebrane na opalonych słońcem zboczach Toskanii<br/>
+			Inne chwasty do wyboru: szpinak, szczypior, bazylia<br/><br/>
+		</div>
+		<div id=zamow>
+			</br>
+			<a href="menu" class="button1"> Zamów</a>
+			<img src="" />
+		</div>
+	</div>
+{% endblock %}

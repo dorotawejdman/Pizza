@@ -2,7 +2,9 @@
 from __future__ import unicode_literals
 
 from django.http import HttpResponse
+from django.template import loader
 
 def index(request):
-    return HttpResponse("<h1>Main page</h1>")
-
+    template = loader.get_template('mainpage/index.html')
+    context = {}
+    return HttpResponse(template.render(context, request))

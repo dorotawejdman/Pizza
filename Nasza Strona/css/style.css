@@ -80,35 +80,46 @@
 	#mainmenu
 	{
 		background-color: #000000;
-		font-size:28px;
+		font-size:17px;
 		
 		<!--border: 1px solid #424242;-->
 	}
 	.option
 	{
+		overflow: hidden;
+ 		text-overflow: ellipsis;	
 		float:left;
-		width: 13%;
+		height: 40px;
+		width: 12%;
 		padding: 1%;
-		margin: 4px;
+		margin: 2px;
+		font-size:150%;
 		<!--border-right: 1px solid #263238;-->
 	}
 	.option:hover
 	{
+		height: 40px;
 		background-color:#263238;
 		cursor: pointer;
+		width: 12%;
 	}
 	.option2
 	{
 		float:left;
 		width: 20%;
-		margin: 4px;
+		margin: 2px;
 		<!--border-right: 1px solid #263238;-->
 	}
-
+	.option2:hover
+	{
+		background-color:#263238;
+		cursor: pointer;
+		width: 20%;
+	}
 	
 	a.button1
 	{
-		background-color: 	#B53721; /*#A33643 Green */
+		background-color: 	#B53721; 
     border: none;
 	width:95.5%;
     color: white;
@@ -119,8 +130,8 @@
     font-size: 40px;
     margin: 4px 2px;
     cursor: pointer;
-	border-radius:20%;
-	webkit-transition-duration: 0.4s; /* Safari */
+	border-radius:0%;
+	webkit-transition-duration: 0.4s; 
     transition-duration: 0.4s;
 		
 		
@@ -161,33 +172,37 @@
 	#oprojekcie
 	{
 		border:none;
-		width: 75%;
-		float:left;
+		text-align:center;
+		width: 800px;
+		 border-top-left-radius:12px 20px;
+  		border-top-right-radius:14px 22px;
+  		border-bottom-right-radius:16px 24px;
+ 		 border-bottom-left-radius:18px 26px;
 		color:white;
 		background-color:#4d0000;
-		margin-left:1%;
-		margin-bottom: 1%;
+		margin: auto;
 		margin-top: 1%;
-		height: 40%;
+		height: 1580px;
+		padding-top:15px;
+ 		 padding-right:15px;
+ 		 padding-bottom:5px;
+ 		 padding-left:15px;
 	}
 	table
 	{
-		
-		
-		border:1px solid red;
+		border:1px solid black;
 		border-collapse:collapse;
 		width:100%;
-		
-		
 	}
 	th,td
 	{
-		border:1px solid red;
+		border:1px dotted black;
 		border-collapse:collapse;
 		padding:15px;
 		text-align:center;
 		
 	}
+	
 	#normal
 	{	
 	background-color:#4d0000;
