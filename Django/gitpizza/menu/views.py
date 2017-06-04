@@ -22,3 +22,7 @@ def addToCart(request, pizza_id, pizza_size):
     newItem = Cart(pizzaId=pizza, size=pizza_size)
     newItem.save()
     return redirect('menu') 
+
+def delete(request):
+    Cart.objects.all().delete() 
+    return redirect('menu') 
