@@ -9,3 +9,9 @@ class Pizza(models.Model):
     def __str__(self):
         return self.name
 
+class Cart(models.Model):
+    pizzaId = models.ForeignKey(
+        'Pizza',
+        on_delete=models.CASCADE,
+    )
+    size = models.IntegerField(default='0')
