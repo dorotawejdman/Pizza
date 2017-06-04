@@ -3,18 +3,100 @@
 
 <head>
 	<meta charset="utf-8" />
-	<title> GitPizza</title>
+	<title> "Najlepsza pizza w mieście"</title>
 	<meta name="description" content="Najlepsza, tania pizza z dowozem w Krakowie, czyli szybkie jedzenie na zamówienie"/>
 	<meta name="keywords" content="pizza, jedzenie, tanio, kraków, dowóz, najlepsza" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-	<link rel="Shortcut icon" href="./css/images/pizzalogo.png" />
 	<link rel="stylesheet" href="./css/style.css" type="text/css">
 	<link rel="stylesheet" href="./css/fontello/css/bucket.css" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Crete+Round|IM+Fell+DW+Pica|Varela+Round" rel="stylesheet">
 	
+	<style>
+		
+		body {
+			margin: 0;
+		}
+
+		.okienko-baza {
+			display: none;
+			background-color: rgba(200, 200, 200, .8);
+			width: 100%;
+			height: 100%;
+			position: fixed;
+			top: 0;
+			z-index: 9999;
+			overflow: auto;
+		}
+
+		.okienko-wnetrze {
+			background-color: black;
+			padding: 20px;
+			width: 50%;
+			margin: 0 auto;
+			text-align: center;
+			position: relative;
+			margin-top: 12%;
+		}
+
+		.okienko-zamknij {
+
+		}
+
+	</style>
 </head>
 
 <body>
+
+
+<div id="okienko1" class="okienko-baza">
+	<div class="okienko-wnetrze">
+		
+		<h1>Tylko krok od wymarzonej pizzy!</h1>
+		<p>Imię zamawiającego:		<input type="text" id="test" value=""></p>
+		<p>Nazwisko zamawiającego: <input type="text" id="testt" value=""></p>
+		<p>Adres dostawy: <input type="text" id="test1" value=""></p>
+		<p>Numer telefonu: <input type="text" id="test2" value=""></p>
+		<p>Numer wybranej pizzy: <input type="text" id="test3" value=""></p>
+		<p>Godzina dostarczenia: <input type="text" id="test4" value=""></p>
+		<p>(Pozostawienie ostatniego pola pustego oznacza dostawę najszybszą jak to możliwe)</p>
+		
+<span class="okienko-zamknij"><button>Zapisz dane</button></span>
+
+
+	</div>
+</div>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+$(function(){
+	$(".button1").click(function(e){
+		e.preventDefault();
+
+		$("body").css("overflow", "hidden");
+
+		var idOkienka = $(this).attr("data-okienkoId");
+		$(idOkienka).fadeIn(1000);
+
+		// Zamknięcie okienka
+		$(idOkienka).find(".okienko-zamknij").click(function(){
+			$(idOkienka).fadeOut(700, function(){
+				$("body").css("overflow", "auto");
+ alert('Przyjęto zamówienie na poniższe dane:' + '\n\nImie: ' + $("#test").val() + '\nNazwisko: ' + $("#testt").val()
+ + '\nAdres dostawy: ' + $("#test1").val() 
++ '\nPodany numer telefonu: ' + $("#test2").val() 
++ '\nWybrana pizza: ' + $("#test3").val() 
++ '\nGodzina dostarczenia: ' + $("#test4").val()
++ '\n\nDziękujęmy i życzymy smacznego!');
+			});
+		});
+
+	});
+});
+</script>
+
+
 <div id=container>
 
 
@@ -25,7 +107,7 @@
 	<div id=mainmenu>
 		<div class=option ><a href="index.html" style="color:white;text-decoration:none;">Strona głowna</a></div>
 		<div class=option ><a href="menu.html" style="color:white;text-decoration:none;"> Menu/Zamów pizze!  </a></div>
-		<div class=option ><a href="o-nas.html" style="color:white;text-decoration:none;">Kontakt</a></div>
+		<div class=option ><a href="o-nas.html" style="color:white;text-decoration:none;">Kontakt/O nas</a></div>
 		<div class=option><a href="o-projekcie.html" style="color:white;text-decoration:none;">O projekcie</a></div>
 		<div class=option2></div>
 		<div class=option style="margin-right:1%"> <i class="icon-basket"></i></div>
@@ -38,16 +120,15 @@
 		<div id=pizzadnia>
 			<h1> Pizza Dnia</h1>
 			<img src="./css/images/pizza.jpeg" width="100%" />
-			<h2 style="font-size:250%;"> Składniki</h2>
-			<h3 style="font-size:150%;">Pieczarki z lasku Wolskiego <br/>
+			<h2> Składniki</h2><br/>
+			Pieczarki z lasku Wolskiego <br/>
 			Rukola ścięta prosto z naszego ogrodu<br/>
 			Świeże pomidory zebrane na opalonych słońcem zboczach Toskanii<br/>
 			Inne chwasty do wyboru: szpinak, szczypior, bazylia<br/><br/>
-			</h3>
 		</div>
 		<div id=zamow>
 			</br>
-			<a href="menu.html>" class="button1"> Zamów</a>
+			<a href="" class="button1" data-okienkoId="#okienko1">Zamów</a>
 			<img src="" />
 		</div>
 	</div>
